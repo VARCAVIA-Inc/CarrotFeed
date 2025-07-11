@@ -1,7 +1,6 @@
-# Hugo
+# Hugo output
+docs/
 public/
 resources/
-
-# Editor / OS
 .DS_Store
 .vscode/
