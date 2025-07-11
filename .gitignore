@@ -1,0 +1,7 @@
+# Hugo
+public/
+resources/
+
+# Editor / OS
+.DS_Store
+.vscode/
